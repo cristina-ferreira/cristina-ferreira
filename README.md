@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and IOS programming
 - 🌱 I’m currently learning Android Programming usind Android Studio and Kotlin
 - 💞️ I’m looking to collaborate on developing mobile apps
-- 📫 How to reach me cristina.d.ferreira@sapo.pt
+- 📫 Reach me @ cristina.d.ferreira@sapo.pt
 
 <!---
 cristina-ferreira/cristina-ferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
